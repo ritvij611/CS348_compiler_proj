@@ -1,1 +1,9 @@
 .DS_Store
+.1. Remove the file from git tracking and local filesystem
+git rm -f Week4_IPLL/.parser
+
+# 2. Commit the removal
+git commit -m Remove editor temporary swap file
+
+# 3. Push the update
+git push origin main
