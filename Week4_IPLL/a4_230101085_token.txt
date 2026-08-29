@@ -1,0 +1,10 @@
+Line 1: <KEYWORD, int>
+Line 1: <IDENTIFIER, main>
+Line 1: <PUNCTUATOR, (>
+Line 1: <PUNCTUATOR, )>
+Line 1: <PUNCTUATOR, {>
+Line 2: <KEYWORD, int>
+Line 2: <IDENTIFIER, x>
+Line 2: <ASSIGN>
+Line 2: <CONSTANT, 10>
+Line 3: <KEYWORD, if>
